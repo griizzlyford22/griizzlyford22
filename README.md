@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @griizzlyford22 aka Ntokozo, founder ad developer of the website Ford Mind
+- 👋 Hi, I’m @griizzlyford22 aka Ntokozo, founder and developer of the website Ford Mind
 - 👀 I’m interested in CREATING, INNOVATING and DESIGNING
 - 🌱 I’m currently learning how to DEVELOP - fullstacks - with ZAIO
 - 💞️ I’m looking to collaborate on GAMECHANGERS
